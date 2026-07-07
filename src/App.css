@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+/* Importación de fuentes de Google */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Playfair+Display:wght@600;700&display=swap');
+
+@theme {
+  /* Declaramos nuestros colores personalizados */
+  --color-colonial-crema: #F8F5F0;
+  --color-colonial-terracota: #C85A32;
+  --color-colonial-madera: #2C1E16;
+
+  /* Declaramos las fuentes */
+  --font-serif: "Playfair Display", serif;
+  --font-sans: "Inter", sans-serif;
+}
